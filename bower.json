@@ -1,0 +1,29 @@
+{
+  "name": "myshop",
+  "description": "这是一个前后的分离的商城",
+  "main": "index.js",
+  "authors": [
+    "yongyang"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "express",
+    "angular"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-route": "^1.5.7",
+    "bootstrap": "^3.3.6"
+  }
+}

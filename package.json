@@ -1,0 +1,28 @@
+{
+  "name": "myshop",
+  "version": "1.0.0",
+  "description": "这是一个前后的分离的商城",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yang10147/myshop.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "angular"
+  ],
+  "author": "yongyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yang10147/myshop/issues"
+  },
+  "homepage": "https://github.com/yang10147/myshop#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "express": "^4.14.0"
+  }
+}
